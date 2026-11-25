@@ -50,4 +50,8 @@ Outlier-Explanation/
 
 The notebooks contain experiments for instance-level and group-level anomaly explanations, including controlled synthetic evaluations.
 
+## Technical Report
+
+https://drive.google.com/file/d/1_EFzUeAe0BO-hrPwOmkPXJCgPpsvHTqo/view?usp=sharing
+
 
